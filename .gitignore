@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+.venv/
+
+# VSCode
+.vscode/
+
+# Data
+/data/recipes.json
+
+# local env
+.env
